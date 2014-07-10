@@ -1,4 +1,7 @@
-def createFile(){
-	# asta 1
-    new File("test").write("myString") 
+//hello.groovy
+println "hello, world"
+arguments = ['mama', 'mia']
+
+for (arg in arguments ) {
+  println "Argument:" + arg;
 }
