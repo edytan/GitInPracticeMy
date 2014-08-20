@@ -1,7 +1,7 @@
 //hello.groovy
 println "hello, world"
 
-arguments = ['mama', 'mia', 'tata', 'tia','gia', 'pia', 'rex', 'cara','mia', 'pia']
+arguments = ['pia', 'rex', 'cara','mia', 'pia', 'narga']
 
 for (argument in arguments ) {
   println "Argument:" + argument;
